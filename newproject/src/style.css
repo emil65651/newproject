@@ -1,0 +1,18 @@
+.divstyle {
+    display: flex;
+    height: 500px;
+    width: 500px;
+    background-color: rgb(188, 183, 183);
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
+
+.boxstyle {
+    width: 47%;
+    height: 120px;
+    background-color: red;
+    border-style: solid;
+    border-width: 2px;
+
+}
